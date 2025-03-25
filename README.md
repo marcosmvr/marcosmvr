@@ -4,6 +4,7 @@
 <p align="center" style="font-size: 18px;">
 🔭 I’m currently studying <strong>Node.js</strong> and <strong>Express.js</strong>.<br>
 🎯 My goal is to become a <strong>Software Engineer</strong>. <br>
+🌱 🇧🇷 🇺🇸 
 </p>
 
 
