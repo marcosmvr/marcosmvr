@@ -3,7 +3,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center" style="font-size: 18px;">
-  🔭 I’m currently studying <strong>Node.js</strong> and <strong>Express.js</strong>.<br>
+  🎂 I’m 16 years old, and I became interested in programming when I was 15. I’ve always had a strong connection with technology, which sparked my desire to dive deeper into the world of software development.<br>
   🎯 My goal is to become a <strong>Software Engineer</strong>, specializing in back-end development.<br>
   🌱 I’m constantly learning and improving my skills in <strong>backend technologies</strong>, <strong>APIs</strong>, and <strong>databases</strong>.<br>
   🇧🇷 🇺🇸 I'm fluent in both Portuguese and English, and I'm ready to work in an international environment.<br>
