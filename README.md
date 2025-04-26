@@ -20,7 +20,7 @@
   <strong>Databases & Tools:</strong><br/>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,mysql" /><br/>
   <strong>Other Tools:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=postman,vscode,linux,obsidian" /><br/>
+  <img src="https://skillicons.dev/icons?i=postman,vscode,linux,obsidian,docker" /><br/>
 </p>
 
 ---
