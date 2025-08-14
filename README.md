@@ -6,7 +6,6 @@
   🎂 I'm 16 years old and started programming at 15, always having a strong connection with technology.<br>
   🎯 My goal is to become a <strong>Software Engineer</strong>, specializing in back-end development.<br>
   🌱 I’m constantly learning and improving my skills in <strong>backend technologies</strong>, <strong>APIs</strong>, and <strong>databases</strong>.<br>
-  🇧🇷 🇺🇸 I'm fluent in both Portuguese and English, and I'm ready to work in an international environment.<br>
   💬 Feel free to reach out to me for collaboration or if you're interested in my projects!
 </p>
 
