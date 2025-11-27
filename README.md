@@ -1,26 +1,18 @@
-<h1 align="center">Hi 👋, I'm Marcos</h1>
-
-<h2 align="center">🚀 About Me</h2>
-
-<p align="center" style="font-size: 18px;">
-  🎂 I'm 16 years old and started programming at 15, always having a strong connection with technology.<br>
-  🎯 My goal is to become a <strong>Software Engineer</strong>, specializing in back-end development.<br>
-  🌱 I’m constantly learning and improving my skills in <strong>backend technologies</strong>, <strong>APIs</strong>, and <strong>databases</strong>.<br>
-  💬 Feel free to reach out to me for collaboration or if you're interested in my projects!
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Marcos.;A+Back-End+Developer.;An+Open+Source+Contributor.)](https://git.io/typing-svg)
 
 
+### About me:
 
-<h2 align="center">🛠️ Skills & Tools</h2>
+I'm a 17-year-old back-end developer.  
+Started coding at 15, and since then I've been working with Node.js, TypeScript, and backend architecture.
 
-<p align="center">
-  <strong>Languages & Frameworks:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express" /><br/>
-  <strong>Databases & Tools:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,mysql" /><br/>
-  <strong>Other Tools:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=postman,vscode,linux,obsidian,docker" /><br/>
-</p>
+### Tech Stack:
 
----
+[![My Skills](https://skillicons.dev/icons?i=ts,docker,express,nestjs,nodejs,prisma,postgres)](https://skillicons.dev)
+
+### Contact
+
+- Email: [marcosvr.dev@gmail.com]
+- Linkedin: [https://www.linkedin.com/in/marcos-vinicius-b274b6334/]
+
 
