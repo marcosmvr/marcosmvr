@@ -1,18 +1,34 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Marcos.;A+Back-End+Developer.)](https://git.io/typing-svg)
+<div align="left">
+  <h1>Marcos Reis</h1>
+  <p>Desenvolvedor full-stack focado em transformar processos complexos em produtos digitais claros, confiáveis e úteis.</p>
+</div>
 
+> Tecnologia como meio. Resultado como foco.
 
-### About me:
+### Atuação
 
-I'm a 17-year-old back-end developer.  
-Started coding at 15, and since then I've been working with Node.js, TypeScript, and backend architecture.
+- Produtos web e interfaces modernas, com foco em experiência, performance e manutenção.
+- Back-ends e painéis administrativos para operações reais.
+- Automação de documentos, apresentações e fluxos de negócio com software determinístico.
 
-### Tech Stack:
+### Stack principal
 
-[![My Skills](https://skillicons.dev/icons?i=ts,docker,express,nestjs,nodejs,prisma,postgres)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,php,laravel,python,postgres,docker&theme=dark" alt="React, TypeScript, Vite, Tailwind CSS, PHP, Laravel, Python, PostgreSQL e Docker" />
+</p>
 
-### Contact
+### Também trabalho com
 
-- Email: [marcosvr.dev@gmail.com]
-- Linkedin: [https://www.linkedin.com/in/marcos-vinicius-b274b6334/]
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,sqlite,git,github&theme=dark" alt="C#, .NET, Angular, SQLite, Git e GitHub" />
+</p>
 
+### O que venho construindo
 
+- **MoviMix** — plataforma web para jornada, avaliações e periodização de treino; React, TypeScript, Laravel, Filament e PostgreSQL.
+- **Ferramentas Matizze** — motores em Python que transformam conteúdo estruturado em apresentações e PDFs profissionais.
+- **Sistemas corporativos** — aplicações web, integrações, automações e manutenção de produtos que atendem operações do dia a dia.
+
+### Contato
+
+[LinkedIn](https://www.linkedin.com/in/marcos-vinicius-b274b6334/) · [E-mail](mailto:marcosvr.dev@gmail.com)
