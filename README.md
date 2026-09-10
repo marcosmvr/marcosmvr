@@ -1,34 +1,26 @@
-<div align="left">
-  <h1>Marcos Reis</h1>
-  <p>Desenvolvedor full-stack focado em transformar processos complexos em produtos digitais claros, confiáveis e úteis.</p>
-</div>
+# systems developer
 
-> Tecnologia como meio. Resultado como foco.
+```text
+SYSTEM STATUS  /  BUILDING
+ROLE           /  Systems Developer
+COMPANY        /  Matizze
+FOCUS          /  Digital products · Business automation · Reliable operations
+```
 
-### Atuação
+I build the software layer that makes everyday operations work better — designing web applications, automating workflows, and connecting systems that need to scale with clarity.
 
-- Produtos web e interfaces modernas, com foco em experiência, performance e manutenção.
-- Back-ends e painéis administrativos para operações reais.
-- Automação de documentos, apresentações e fluxos de negócio com software determinístico.
+### system capabilities
 
-### Stack principal
+`product engineering` · `business systems` · `automation` · `administrative platforms` · `integrations`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,php,laravel,python,postgres,docker&theme=dark" alt="React, TypeScript, Vite, Tailwind CSS, PHP, Laravel, Python, PostgreSQL e Docker" />
-</p>
+### technology landscape
 
-### Também trabalho com
+| interface | application layer | systems & delivery |
+| --- | --- | --- |
+| React · TypeScript · Vite · Tailwind CSS · Angular | PHP · Laravel · Filament · Python · .NET / C# | PostgreSQL · SQL Server · Docker · Git |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,sqlite,git,github&theme=dark" alt="C#, .NET, Angular, SQLite, Git e GitHub" />
-</p>
+### signal
 
-### O que venho construindo
+Building at [Matizze](https://github.com/matizze), where technology is a means and results are the focus.
 
-- **MoviMix** — plataforma web para jornada, avaliações e periodização de treino; React, TypeScript, Laravel, Filament e PostgreSQL.
-- **Ferramentas Matizze** — motores em Python que transformam conteúdo estruturado em apresentações e PDFs profissionais.
-- **Sistemas corporativos** — aplicações web, integrações, automações e manutenção de produtos que atendem operações do dia a dia.
-
-### Contato
-
-[LinkedIn](https://www.linkedin.com/in/marcos-vinicius-b274b6334/) · [E-mail](mailto:marcosvr.dev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/marcos-vinicius-b274b6334/) · [Email](mailto:marcosvr.dev@gmail.com)
