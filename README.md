@@ -2,7 +2,9 @@
 
 **Building reliable digital systems for real-world operations.**
 
-At [Matizze](https://github.com/matizze), I design and build web applications, business automation, and the software that keeps teams moving.
+At [Matizze](https://github.com/matizze), I turn operational challenges into software. I design and deliver web products, administrative platforms, automations, and integrations that help teams work with more clarity, speed, and consistency.
+
+My work moves from interface design and application logic to data, deployment, and the workflows behind a product — always with maintainability and practical outcomes in mind.
 
 ### Focus
 
@@ -10,17 +12,7 @@ At [Matizze](https://github.com/matizze), I design and build web applications, b
 
 ### Technology Stack
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,angular&theme=dark" alt="React, TypeScript, Vite, Tailwind CSS and Angular" />
-
-**Application Layer**
-
-<img src="https://skillicons.dev/icons?i=php,laravel,python,dotnet,cs&theme=dark" alt="PHP, Laravel, Python, .NET and C#" />
-
-**Systems & Delivery**
-
-<img src="https://skillicons.dev/icons?i=postgres,docker,git,github&theme=dark" alt="PostgreSQL, Docker, Git and GitHub" />
+<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,angular,php,laravel,python,dotnet,cs,postgres,docker,git,github&theme=dark" alt="React, TypeScript, Vite, Tailwind CSS, Angular, PHP, Laravel, Python, .NET, C#, PostgreSQL, Docker, Git and GitHub" />
 
 ### Contact
 
