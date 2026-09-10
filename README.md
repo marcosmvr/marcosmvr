@@ -1,26 +1,27 @@
-# systems developer
+# Systems Developer
 
-```text
-SYSTEM STATUS  /  BUILDING
-ROLE           /  Systems Developer
-COMPANY        /  Matizze
-FOCUS          /  Digital products · Business automation · Reliable operations
-```
+**Building reliable digital systems for real-world operations.**
 
-I build the software layer that makes everyday operations work better — designing web applications, automating workflows, and connecting systems that need to scale with clarity.
+At [Matizze](https://github.com/matizze), I design and build web applications, business automation, and the software that keeps teams moving.
 
-### system capabilities
+### Focus
 
-`product engineering` · `business systems` · `automation` · `administrative platforms` · `integrations`
+`Product Engineering` · `Business Systems` · `Automation` · `Integrations`
 
-### technology landscape
+### Technology Stack
 
-| interface | application layer | systems & delivery |
-| --- | --- | --- |
-| React · TypeScript · Vite · Tailwind CSS · Angular | PHP · Laravel · Filament · Python · .NET / C# | PostgreSQL · SQL Server · Docker · Git |
+**Frontend**
 
-### signal
+<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,angular&theme=dark" alt="React, TypeScript, Vite, Tailwind CSS and Angular" />
 
-Building at [Matizze](https://github.com/matizze), where technology is a means and results are the focus.
+**Application Layer**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,dotnet,cs&theme=dark" alt="PHP, Laravel, Python, .NET and C#" />
+
+**Systems & Delivery**
+
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github&theme=dark" alt="PostgreSQL, Docker, Git and GitHub" />
+
+### Contact
 
 [LinkedIn](https://www.linkedin.com/in/marcos-vinicius-b274b6334/) · [Email](mailto:marcosvr.dev@gmail.com)
